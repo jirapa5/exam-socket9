@@ -1,0 +1,24 @@
+{
+  "name": "exam-socket9",
+  "version": "1.0.0",
+  "description": "weekday script",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jirapa5/exam-socket9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jirapa5/exam-socket9/issues"
+  },
+  "homepage": "https://github.com/jirapa5/exam-socket9#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
